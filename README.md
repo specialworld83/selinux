@@ -1,8 +1,8 @@
-PKGBUILDs for SELinux support in Arch Linux
+PKGBUILDs for SELinux support in Condres OS Gnu/Linux
 ===========================================
 
 Complete documentation will soon be available at:
-https://wiki.archlinux.org/index.php/SELinux
+https://wiki.codelinsoft.it/doku.php?id=selinux
 
 Authors
 -------
@@ -61,7 +61,7 @@ Optional but very nice to have:
 Policy
 ------
 
-There is not yet a SELinux policy for Arch.  To build a policy, here are some useful links:
+There is not yet a SELinux policy for Condres.  To build a policy, here are some useful links:
 
 * https://github.com/TresysTechnology/refpolicy The Reference Policy
 * https://github.com/pebenito/refpolicy ongoing work to include a systemd policy in the refpolicy (announcement: http://oss.tresys.com/pipermail/refpolicy/2014-October/007430.html)
